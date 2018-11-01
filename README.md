@@ -1,8 +1,7 @@
 # Credit Card Number Validation
 
 ### Requirement :
----
-Please intall [NODE.JS](https://nodejs.org/en/download/) first before you can use it.
+Please install [Node.js](https://nodejs.org/en/download/) first before you can use it.
 
 #### How to use :
 ```
